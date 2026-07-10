@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+.env/
+.venv/
+.env
+
+# MacOS
+.DS_Store
+
+# Images/Media
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+
+# Project specifics
+debug*
+output.json
+sample_data/
+pretrained_model/
+한국전자통신연구원*
+.gradio/
+temp.jpg
+*.db
