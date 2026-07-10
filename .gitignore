@@ -16,6 +16,8 @@ venv/
 *.jpg
 *.jpeg
 *.gif
+!langsplat_driving_orig.gif
+!langsplat_driving_car.gif
 *.mp4
 
 # Project specifics
