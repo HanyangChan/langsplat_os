@@ -19,6 +19,11 @@ This repository contains the LangSplat project, an enhanced framework for 3D Gau
 
 Here are some examples of the semantic scene understanding capabilities in action:
 
+**Platform Running Example:**
+![Running Example](images/running_example.gif)
+
+*(High-quality video available [here](images/running_example.mov))*
+
 **Original 3D Gaussian Splatting Reconstruction:**
 ![Original Driving Scene](langsplat_driving_orig.gif)
 
