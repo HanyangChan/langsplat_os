@@ -2,6 +2,15 @@
 
 This repository contains the LangSplat project, an enhanced framework for 3D Gaussian Splatting with semantic scene understanding capabilities.
 
+## About LangSplat
+
+**LangSplat (Language-Embedded 3D Gaussian Splatting)** is an advanced 3D open-vocabulary scene understanding framework. It builds upon the highly efficient **3D Gaussian Splatting (3DGS)** rendering technique by embedding multi-scale language features (such as CLIP embeddings) directly into the 3D Gaussians. 
+
+Key advantages of LangSplat include:
+- **Open-Vocabulary Queries**: Users can search for and highlight specific objects or semantic areas within a 3D scene using natural language.
+- **Real-Time Rendering & Inference**: By avoiding the heavy volumetric rendering of NeRF-based approaches (like LERF), LangSplat achieves significantly faster rendering speeds and scene inference.
+- **Precise Localization**: Language features are modeled as 3D language fields, offering precise and boundary-accurate 3D object detection and segmentation.
+
 ## Features
 
 - **Training Monitor Platform**: Built-in `TrainingMonitor` for real-time tracking of GPU usage, Gaussian point counts, iteration speeds, and refined loss metrics.
