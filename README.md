@@ -1,4 +1,4 @@
-# LangSplat OS
+# [LangSplat](https://arxiv.org/abs/2312.16084) OS
 
 This repository contains the LangSplat project, an enhanced framework for 3D Gaussian Splatting with semantic scene understanding capabilities.
 
